@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+.nav-item{
+    font-size: 140%;
+   
+
+}
+.nav-link{
+    color:#f2f266;
+}
+#bessanpic{
+    float:initial;
+}
+#intro{
+    color:#FFFF8A;
+}
+.d-flex{
+    color:#e4e436;
+}
+#skills-section{
+    color:#e4e436;
+   
+   
+}
+#contact-section{
+    color:#393932;
+    background-color: rgb(211, 179, 131);
+}
+#Education{
+    color:#e4e436;  
+}
+#course-section{
+    color:#e4e436;  
+}
+#link{
+   text-align:center ; 
+   
+}
+a{
+    color: black;
+}
